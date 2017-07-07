@@ -1,0 +1,9 @@
+/build
+/dist
+/doc
+.DS_Store
+/node_modules
+/temp
+/src/temp
+*.log
+/locala
